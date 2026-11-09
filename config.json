@@ -1,0 +1,5 @@
+{
+    "ifc_path": "data/gebaeude.ifc",
+    "rules_path": "rules_data/pruefregeln.xlsx",
+    "output_path": "output/result.xlsx"
+}

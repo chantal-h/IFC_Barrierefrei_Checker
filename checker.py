@@ -1,0 +1,1 @@
+# Vergleich zwischen IFC-Istwerten und Sollwerten aus der Regeldatenbank
